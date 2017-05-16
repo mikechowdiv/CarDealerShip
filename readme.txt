@@ -10,3 +10,8 @@ Login Information below:
 "mike@example.com",
 
 password for login: Pass@word1
+
+Update: I have deployed the whole project to tbe web so check it out:
+http://car-dealership-app.apphb.com
+
+
